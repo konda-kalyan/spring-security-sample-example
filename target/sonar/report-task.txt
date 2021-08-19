@@ -1,0 +1,6 @@
+projectKey=kalyan-first-project
+serverUrl=http://localhost:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9000/dashboard?id=kalyan-first-project
+ceTaskId=AXteK3RM8tRtFbj_Hxv6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXteK3RM8tRtFbj_Hxv6
